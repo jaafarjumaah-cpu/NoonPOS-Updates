@@ -1,0 +1,9 @@
+{
+  "version": "1414",
+  "name": "NoonPOS v1414",
+  "channel": "stable",
+  "download_url": "",
+  "sha256": "",
+  "release_notes": "Online updater introduced.",
+  "mandatory": false
+}
